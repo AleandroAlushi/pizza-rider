@@ -1,0 +1,15 @@
+{
+  "name": "Pizza Rider",
+  "short_name": "Pizza Rider",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#111113",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
